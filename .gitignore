@@ -1,0 +1,22 @@
+# Visual Studio user and cache files
+.vs/
+
+# Visual Studio Code settings
+.vscode/
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Build artifacts
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.tlog
+*.lastbuildstate
+*.log
